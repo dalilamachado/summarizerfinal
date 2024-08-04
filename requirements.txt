@@ -4,3 +4,4 @@ openai
 transformers
 torch
 langchain_community
+python-dotenv
