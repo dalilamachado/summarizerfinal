@@ -1,0 +1,1 @@
+Esta aplicação utiliza Streamlit, LLM e LangChain para fornecer um resumo conciso de artigos inseridos pelos usuários.

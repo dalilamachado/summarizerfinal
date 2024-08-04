@@ -1,0 +1,19 @@
+# Ignorar arquivos de configuração do ambiente
+.env
+
+# Ignorar dependências do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos e pastas específicos do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas específicas do sistema operacional
+.DS_Store
+
+# Ignorar arquivos e pastas específicos do Jupyter Notebook
+.ipynb_checkpoints/

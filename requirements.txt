@@ -1,0 +1,6 @@
+streamlit
+langchain
+openai
+transformers
+torch
+langchain_community
